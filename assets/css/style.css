@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbarr{
+    margin-left: 150px;
+}
+
+.main{
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 1px solid whitesmoke;
+    background-color: orange;
+    border-radius: 10px 10px 10px 10px;
+    padding-left: 121px;
+    padding-top: 36px;
+    height: 280px;
+}
+
+.cardd{
+    margin-left: 50px;  
+    margin-top: 50px;
+    padding: 0px 23px 4px 15px;
+    
+}
+
+.cardd button{
+    padding: 0px 23px 4px 15px;
+    background-color: red;
+}
+.sidebar{
+    background-color: red;
+
+
+}
+
+.sidebarr{
+
+    border: 1px solid whitesmoke;
+    width: 100px;
+    height: 330px;
+    margin-left: 50px;
+    margin-top: 51px;
+    background-color: wheat;
+    
+}
+
+.color{
+    background-color: whitesmoke
+}
+.size{
+    margin-left: 13px;
+}
+.size p{
+    margin-left: 25px;
+    margin-top: -24px
+}
